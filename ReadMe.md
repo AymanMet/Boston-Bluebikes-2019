@@ -4,7 +4,7 @@
 
 ## Dataset
 
-* This document explores a dataset containing about 2.5 millions bike trips across Boston City through 2019 including start & end stations & times, users types, genders & birth years.
+* This project explores a dataset containing about 2.5 million bike trips across Boston City through 2019 including start & end stations & times, user types, genders & birth years.
 * You can find it [here](https://www.bluebikes.com/system-data).
 
 ## Features of Interest
